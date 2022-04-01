@@ -1,0 +1,112 @@
+@charset "utf-8";
+
+
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	color: hsl(0, 0%, 0%);
+	background: #c1d7ec;
+}
+.VisualizationMainPage  #header { 
+	background: #c1d7ec;
+	color:#463606;
+  text-align: left;
+	padding: 0 10px 0 20px; 
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+  
+} 
+
+.VisualizationMainPage #mainContent {
+	
+	background: #FFFFFF;
+}
+
+.VisualizationMainPage #container {
+
+
+	background: #d1deeb;  
+	
+	text-align: left; 
+}
+
+
+#filechoose
+{
+	background: #c1d7ec; 
+	color:#000000; 
+  text-align:left;
+	margin:0
+
+}
+#mlselectcontent
+{
+	background: #c1d7ec; 
+	color:#000000; 
+  text-align:left;
+  margin-left: 25px;
+
+	
+
+}
+
+.algorithms
+{
+	background: #022a52; 
+	color:#f7f3f3; 
+	text-align: center;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	width: 150px;
+	height: 35px;
+}
+
+.uploadfile
+{
+	
+	margin-left: 25px;
+	margin-bottom: 10px;
+
+}
+
+.analysis
+{
+	
+	margin-left: 50px;
+	background: #c46805; 
+	color:#f7f3f3; 
+	width: 100px;
+	height: 35px;
+}
+
+.form-control
+{
+	background: #aaadaf;
+}
+
+
+.VisualizationMainPage #generalAnimationControlSection
+{
+	background: #DDEEDD; 
+	color:#f0f5f6; 
+
+}
+
+ 	
+
+
+
+.VisualizationMainPage #footer { 
+	padding: 0 10px;
+    background: #c1d7ec; 
+	color:#463606;
+} 
+.VisualizationMainPage #footer p {
+	margin: 0; 	padding: 10px 0; 
+}
+
+EM {text-decoration: bold;}
+
+	
